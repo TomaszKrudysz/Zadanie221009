@@ -1,8 +1,13 @@
 import java.util.Scanner;
+<<<<<<< HEAD
 
 /**
  * Created by tkrud on 12.10.2022.
  *
+=======
+/**
+ * Created by tkrud on 12.10.2022.
+>>>>>>> bb94245 (delete blank lines in Zadanie1)
  * Napisz program, w którym zadeklarujesz i utworzysz dziesięcioelementową tablicę
  * odpowiedniego typu. W pętli pobierzesz od użytkownika liczby i je w niej zapiszesz.
  * Następnie wyświetl je na ekranie powiadomienia "Liczba: " dla każdego z podanych
