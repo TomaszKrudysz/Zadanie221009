@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 /**
  * Created by tkrud on 12.10.2022.
  * Utwórz tablicę typu int przechowującą n elementów - gdzie n jest parametrem pobieranym od
